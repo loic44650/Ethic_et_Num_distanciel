@@ -1,49 +1,32 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: article_ethique.aux
-The style file: plain.bst
+This is BibTeX, Version 0.99dThe top-level auxiliary file: article_ethique.aux
+The style file: unsrt.bst
 Database file #1: biblioArticleEthique.bib
 Warning--empty journal in 1
 Warning--empty year in 1
-You've used 1 entry,
-            2118 wiz_defined-function locations,
-            499 strings with 4138 characters,
-and the built_in function-call counts, 219 in all, are:
-= -- 17
-> -- 7
-< -- 0
-+ -- 3
-- -- 2
-* -- 13
-:= -- 45
-add.period$ -- 2
-call.type$ -- 1
-change.case$ -- 4
-chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 10
-empty$ -- 18
-format.name$ -- 2
-if$ -- 39
-int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 7
-num.names$ -- 2
-pop$ -- 8
-preamble$ -- 1
-purify$ -- 3
-quote$ -- 0
-skip$ -- 6
-stack$ -- 0
-substring$ -- 5
-swap$ -- 0
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 4
-warning$ -- 2
-while$ -- 2
-width$ -- 2
-write$ -- 9
-(There were 2 warnings)
+Warning--empty journal in 2
+Warning--empty year in 2
+Warning--empty author in 3
+Warning--empty journal in 3
+Warning--empty year in 3
+Warning--empty journal in 4
+Warning--empty year in 4
+Warning--empty author in 5
+Warning--empty journal in 5
+Warning--empty year in 5
+Warning--empty journal in 7
+Warning--empty year in 7
+Warning--empty journal in 8
+Warning--empty year in 8
+Warning--empty journal in 9
+Warning--empty year in 9
+Warning--empty author in 10
+Warning--empty journal in 10
+Warning--empty year in 10
+Warning--empty journal in 13
+Warning--empty year in 13
+Warning--empty author in 15
+Warning--empty journal in 15
+Warning--empty year in 15
+Warning--empty journal in 16
+Warning--empty year in 16
+(There were 28 warnings)
