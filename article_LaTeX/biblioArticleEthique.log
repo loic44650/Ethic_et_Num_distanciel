@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2018.2.24)  24 FEB 2018 14:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2018.2.24)  10 MAR 2018 14:45
 entering extended mode
 **C:/Users/Lo√Øc/Downloads/Ethic_et_Num_distanciel-master/article_LaTeX/biblioA
 rticleEthique.bib
@@ -26,8 +26,20 @@ Missing character: There is no √ in font cmr10!
 Missing character: There is no ® in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no ® in font cmr10!
+
+Overfull \hbox (167.1627pt too wide) in paragraph at lines 15--21
+[]\tenrm @article3, ti-tle = Il est temps de re-nou-veler In-ter-net : L'nergie
+ verte pour le Web 4.0, url = http://www.greenpeace.org/luxembourg/fr/news/Il-|
+
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm a
+.\tenrm r
+.\tenrm t
+.etc.
+
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ª in font cmr10!
 Missing character: There is no √ in font cmr10!
@@ -51,30 +63,122 @@ per-sonne ne le voit, url = https://mrmondialisation.org/le-|
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 Missing character: There is no √ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 
-Overfull \hbox (167.1627pt too wide) in paragraph at lines 47--52
-[]\tenrm @article8, ti-tle = Il est temps de re-nou-veler In-ter-net : L'nergie
- verte pour le Web 4.0, url = http://www.greenpeace.org/luxembourg/fr/news/Il-|
+Overfull \hbox (65.88493pt too wide) in paragraph at lines 62--67
+\tenrm https://www.consommerdurable.com/2009/10/que-font-les-fournisseurs-dacce
+s-a-internet-pour-diminuer-la-consommation-|
 
+\hbox(7.5+2.5)x469.75499
+.\tenrm h
+.\kern-0.27779
+.\tenrm t
+.\tenrm t
+.\tenrm p
+.etc.
+
+
+Overfull \hbox (8.82921pt too wide) in paragraph at lines 62--67
+\tenrm denergie-des-box-adsl-et-comment-pouvons-nous-agir-pour-reduire-la-conso
+mmation-de-ces-appareils/, url-date|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm d
+.\tenrm e
+.\tenrm n
+.\tenrm e
+.\tenrm r
+.etc.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no † in font cmr10!
+
+Overfull \hbox (12.27382pt too wide) in paragraph at lines 84--89
+\tenrm https://www.lemondeinformatique.fr/actualites/lire-un-datacenter-google-
+refroidi-a-l-air-finlandais-34666.html|
+
+\hbox(7.5+2.5)x469.75499
+.\tenrm h
+.\kern-0.27779
+.\tenrm t
+.\tenrm t
+.\tenrm p
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--89
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+
+Overfull \hbox (37.28764pt too wide) in paragraph at lines 90--95
+[]\tenrm @misc14, ti-tle = Google, cen-tres de donnes, url = https://www.google
+.com/about/datacenters/inside/locations/,|
 
 \hbox(7.5+2.5)x469.75499, glue set - 1.0
 .\hbox(0.0+0.0)x20.0
 .\tenrm @
-.\tenrm a
-.\tenrm r
+.\tenrm m
+.\tenrm i
+.\tenrm s
+.etc.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+
+Overfull \hbox (11.6625pt too wide) in paragraph at lines 102--108
+\tenrm = https://www.futura-sciences.com/planete/actualites/energie-renouvelabl
+e-google-passe-utiliser-100-energies-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm =
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm h
+.\kern-0.27779
 .\tenrm t
 .etc.
 
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 Missing character: There is no √ in font cmr10!
-Missing character: There is no † in font cmr10!
-)
-*
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no â in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.113 ...-electricite-que-159-etats-dans-le-monde_
+                                                  118729},
+? 
 ! Emergency stop.
-<*> ...ster/article_LaTeX/biblioArticleEthique.bib
-                                                  
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.113 ...-electricite-que-159-etats-dans-le-monde_
+                                                  118729},
 End of file on the terminal!
 
 !  ==> Fatal error occurred, no output PDF file produced!

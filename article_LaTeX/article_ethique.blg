@@ -1,32 +1,35 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: article_ethique.aux
-The style file: unsrt.bst
+The style file: plain.bst
 Database file #1: biblioArticleEthique.bib
-Warning--empty journal in 1
-Warning--empty year in 1
-Warning--empty journal in 2
-Warning--empty year in 2
-Warning--empty author in 3
-Warning--empty journal in 3
-Warning--empty year in 3
-Warning--empty journal in 4
-Warning--empty year in 4
-Warning--empty author in 5
-Warning--empty journal in 5
-Warning--empty year in 5
-Warning--empty journal in 7
-Warning--empty year in 7
-Warning--empty journal in 8
+Warning--to sort, need author or key in 3
+Warning--to sort, need author or key in 5
+Warning--to sort, need author or key in 6
+Warning--to sort, need author or key in 8
+Warning--to sort, need author or key in 10
+Warning--to sort, need author or key in 11
+Warning--to sort, need author or key in 19
+Warning--to sort, need author or key in 20
+Warning--to sort, need author or key in 21
+Warning--to sort, need author or key in 14
+Warning--to sort, need author or key in 15
+Warning--empty author in 8
 Warning--empty year in 8
-Warning--empty journal in 9
-Warning--empty year in 9
+Warning--empty author in 3
+Warning--empty year in 3
+Warning--empty author in 19
+Warning--empty journal in 19
+Warning--empty year in 19
+Warning--empty author in 5
+Warning--empty year in 5
 Warning--empty author in 10
-Warning--empty journal in 10
 Warning--empty year in 10
-Warning--empty journal in 13
+Warning--empty year in 7
+Warning--empty year in 4
+Warning--empty year in 22
+Warning--empty year in 1
+Warning--empty year in 9
+Warning--empty year in 2
+Warning--empty year in 18
 Warning--empty year in 13
-Warning--empty author in 15
-Warning--empty journal in 15
-Warning--empty year in 15
-Warning--empty journal in 16
 Warning--empty year in 16
-(There were 28 warnings)
+(There were 31 warnings)

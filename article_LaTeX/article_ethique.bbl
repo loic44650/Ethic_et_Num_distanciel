@@ -1,65 +1,125 @@
 \begin{thebibliography}{10}
 
-\bibitem{1}
-Gaël~Trouvé Félix~Tréguer.
-\newblock Le coût écologique d’internet est trop lourd, il faut penser un
-  internet low-tech.
+\bibitem{6}
+Colocation data centers.
+\newblock \url{http://www.datacentermap.com/datacenters.html}.
 
-\bibitem{2}
-Théophile Laherre.
-\newblock Internet : le plus gros pollueur de la planète ?
+\bibitem{21}
+Cryptocurrency market capitalizations.
+\newblock \url{https://coinmarketcap.com/all/views/all}.
+
+\bibitem{15}
+The facebook data center faq.
+\newblock
+  \url{http://www.datacenterknowledge.com/data-center-faqs/facebook-data-center-faq}.
+
+\bibitem{8}
+Gartner estimates ict industry accounts for 2 percent of global co2 emissions.
+\newblock {\em Gartner. Communiquer de presse}.
+\newblock \url{https://www.gartner.com/newsroom/id/503867}.
+
+\bibitem{14}
+Google, centres de données.
+\newblock \url{https://www.google.com/about/datacenters/inside/locations}.
+
+\bibitem{20}
+Graphiques sur le bitcoin.
+\newblock \url{https://blockchain.info/fr/charts}.
 
 \bibitem{3}
 Il est temps de renouveler internet : L'énergie verte pour le web 4.0.
+\newblock {\em Greenpeace}.
+\newblock
+  \url{http://www.greenpeace.org/luxembourg/fr/news/Il-est-temps-de-renouveler-Internet}.
 
-\bibitem{4}
-Kris~De Decker.
-\newblock Why we need a speed limit for the internet.
+\bibitem{19}
+Le bitcoin consomme-t-il vraiment plus d'électricité que toute l'irlande ?
+\newblock
+  \url{https://selectra.info/energie/actualites/insolite/bitcoin-consommation-electricite}.
 
 \bibitem{5}
 Le coût écologique d’internet est astronomique et personne ne le voit.
-
-\bibitem{6}
-Colocation data centers.
-
-\bibitem{7}
-Louise Ascher.
-\newblock Les centres de données, grands pollueurs de l'ère numérique ?
-
-\bibitem{8}
-Gartner.~Communiquer de~presse.
-\newblock Gartner estimates ict industry accounts for 2 percent of global co2
-  emissions.
-
-\bibitem{9}
-Laurent~Lefèvre Jean-Marc~Pierson.
-\newblock Le big data est-il polluant ?
+\newblock {\em Mr Mondialisation}.
+\newblock
+  \url{https://mrmondialisation.org/le-cout-ecologique-dinternet-est-astronomique}.
 
 \bibitem{10}
 Que font les fournisseurs d'accès à internet pour diminuer la consommation
   d'énergie des box adsl et comment pouvons nous agir pour réduire la
   consommation de ces appareils ?
+\newblock {\em Consommer durable}.
+\newblock
+  \url{https://www.consommerdurable.com/2009/10/que-font-les-fournisseurs-dacces-a-internet-pour-diminuer-la-consommation-denergie-des-box-adsl-et-comment-pouvons-nous-agir-pour-reduire-la-consommation-de-ces-appareils}.
 
 \bibitem{11}
-Internet, la pollution caché, 2014.
+Documentaire : Internet, la pollution caché, 2014.
+
+\bibitem{7}
+Louise Ascher.
+\newblock Les centres de données, grands pollueurs de l'ère numérique ?
+\newblock {\em Wavestone}.
+\newblock
+  \url{https://www.energystream-wavestone.com/2017/02/data-center-grands-pollueurs-numerique}.
 
 \bibitem{12}
 Gary Cook.
 \newblock Clicking clean : who is winning the race to build a green internet ?,
   2017.
 
+\bibitem{4}
+Kris~De Decker.
+\newblock Why we need a speed limit for the internet.
+\newblock {\em Low-Tech Magazine}.
+\newblock
+  \url{http://www.lowtechmagazine.com/2015/10/can-the-internet-run-on-renewable-energy.html}.
+
+\bibitem{22}
+Jean-Paul Delahaye.
+\newblock La dépense électrique des crypto-monnaies.
+\newblock {\em bitcoin.fr}.
+\newblock \url{https://bitcoin.fr/la-depense-electrique-des-crypto-monnaies}.
+
+\bibitem{1}
+Gaël~Trouvé Félix~Tréguer.
+\newblock Le coût écologique d’internet est trop lourd, il faut penser un
+  internet low-tech.
+\newblock {\em Reporterre}.
+\newblock
+  \url{https://reporterre.net/Le-cout-ecologique-d-internet-est-trop-lourd-il-faut-penser-un-internet-low}.
+
+\bibitem{9}
+Laurent~Lefèvre Jean-Marc~Pierson.
+\newblock Le big data est-il polluant ?
+\newblock {\em CNRS Le journal}.
+\newblock \url{https://lejournal.cnrs.fr/billets/le-big-data-est-il-polluant}.
+
+\bibitem{2}
+Théophile Laherre.
+\newblock Internet : le plus gros pollueur de la planète ?
+\newblock {\em Fournisseur Energie.com}.
+\newblock
+  \url{https://www.fournisseur-energie.com/internet-plus-gros-pollueur-de-planete}.
+
+\bibitem{18}
+Sarah Sermondadaz.
+\newblock La crypto-monnaie bitcoin consomme plus d'électricité que 159
+  États dans le monde.
+\newblock {\em Science et Avenir}.
+\newblock
+  \url{https://www.sciencesetavenir.fr/high-tech/la-crypto-monnaie-bitcoin-consomme-plus-d-electricite-que-159-etats-dans-le-monde_118729}.
+
 \bibitem{13}
 Tania Séverin.
 \newblock Un datacenter google refroidi à l'air finlandais.
-
-\bibitem{14}
-Google, centres de données.
-
-\bibitem{15}
-The facebook data center faq.
+\newblock {\em Le Monde informatique}.
+\newblock
+  \url{https://www.lemondeinformatique.fr/actualites/lire-un-datacenter-google-refroidi-a-l-air-finlandais-34666.html}.
 
 \bibitem{16}
 Marc Zaffagni.
 \newblock Google en passe d'utiliser 100 \% d'énergies renouvelables.
+\newblock {\em Futura Planète}.
+\newblock
+  \url{https://www.futura-sciences.com/planete/actualites/energie-renouvelable-google-passe-utiliser-100-energies-renouvelables-68153}.
 
 \end{thebibliography}
